@@ -1,0 +1,41 @@
+@charset "UTF-8"; 
+
+html{ background:linear-gradient(#efdcf8, #d07adb)}
+
+h1 {text-align: center; 
+    font-family: 'Righteous', cursive; 
+    color: #89588f; 
+    border-top: 4px solid #ab70b3;
+    border-left: 4px solid #ab70b3;
+    border-right: 4px solid #ab70b3;
+    border-bottom: 4px solid #ab70b3; 
+    text-shadow: .1em .1em .2em rgb(167, 167, 167);
+    border-radius: 30px;}
+
+h2 {font-family: 'Righteous', cursive; 
+    color: #89588f;} 
+
+body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    margin: 0 5%; color: #000000; 
+    background-color: #efdcf8; 
+    background-repeat: no-repeat; 
+    background-position: center 100px; 
+    background-attachment: fixed; 
+    background: url(logoat.png) no-repeat center 100px fixed; 
+    } 
+
+div {text-align: center;} 
+
+footer {text-align: center;  
+    padding-top: 1em; } 
+
+footer img {width: 40px;  
+    height: 40px;  
+    margin-left: .5em;  
+    margin-right: .5em; }
+
+a:link {color: #670774;}
+
+a:visited {color: #470750;}  
+
+a:focus, a:hover {color: #9f0ab3;}
